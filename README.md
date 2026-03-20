@@ -22,6 +22,8 @@
 
 </div>
 
+Contributors: Dannny-cell , [Saksham Srivastava](https://github.com/Saksham653) , [Akhil Pandey](https://github.com/akhil3145)
+
 ---
 
 ## 🎯 What is SmartEdge Copilot?
